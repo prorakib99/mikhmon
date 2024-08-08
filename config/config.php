@@ -1,0 +1,5 @@
+<?php 
+if(substr($_SERVER["REQUEST_URI"], -10) == "config.php"){header("Location:./");}; 
+$data['mikhmon'] = array ('1'=>'mikhmon<|<mikhmon','mikhmon>|>aWNlbA==');
+$data['ShakibElectronics'] = array ('1'=>'ShakibElectronics!10.11.6.241','ShakibElectronics@|@rakib','ShakibElectronics#|#epaepKByaWFialU=','ShakibElectronics%সাকিব ইলেকট্রনিক্স','ShakibElectronics^wifi.com','ShakibElectronics&TK','ShakibElectronics*','ShakibElectronics(','ShakibElectronics)','ShakibElectronics=disable','ShakibElectronics@!@enable','ShakibElectronics#!#');
+$data['ShakibElectronicsOnline'] = array ('1'=>'ShakibElectronicsOnline!server2.remotemikrotik.com:7479','ShakibElectronicsOnline@|@rakib','ShakibElectronicsOnline#|#epaepKByaWFialU=','ShakibElectronicsOnline%Shakib Electronics','ShakibElectronicsOnline^rsm.com','ShakibElectronicsOnline&TK','ShakibElectronicsOnline*','ShakibElectronicsOnline(','ShakibElectronicsOnline)','ShakibElectronicsOnline=30','ShakibElectronicsOnline@!@enable','ShakibElectronicsOnline#!#');
